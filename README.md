@@ -1,11 +1,15 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1280x300/0f172a/ffffff?text=Building+HR+Systems+That+Run+Without+Manual+Work" />
-</p>
-
 <h1 align="center">Anshu Gulati</h1>
 
 <p align="center">
-HRIS & HR Tech · Workflow Automation · SLA & Routing Systems · n8n · Zapier · Groq AI · Google Sheets · Design once. System runs it.
+HRIS & HR Tech · Workflow Automation · SLA & Routing Systems
+</p>
+
+<p align="center">
+n8n · Zapier · Groq AI · Google Sheets
+</p>
+
+<p align="center">
+<strong>Design once. System runs it.</strong>
 </p>
 
 ---
