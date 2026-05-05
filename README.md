@@ -17,7 +17,7 @@ n8n · Zapier · Groq AI · Google Sheets
 ## What I Do
 
 Design HR systems that eliminate repetitive manual work.  
-Focused on routing, SLA ownership, and workflow automation — built to run consistently without manual intervention.
+Routing, SLA ownership, and workflow automation — built to run consistently without manual intervention.
 
 ---
 
