@@ -16,16 +16,17 @@ n8n · Zapier · Groq AI · Google Sheets
 
 ## What I Do
 
-I build HR systems that remove repetitive manual work by designing structured workflows for routing, SLA tracking, and ownership. The focus is simple — define the process once and let the system handle execution consistently.
+I design HR systems that eliminate repetitive manual work.  
+Focused on routing, SLA ownership, and workflow automation — built to run consistently without manual intervention.
 
 ---
 
 ## Impact
 
-- Reduced routing time from 12 minutes to under 1 second  
+- 12 min → < 1 sec routing time  
 - 340+ cases tracked end-to-end  
-- Eliminated manual routing  
-- Improved ownership and SLA visibility  
+- Zero manual routing  
+- Clear ownership and SLA visibility  
 
 ---
 
@@ -33,7 +34,9 @@ I build HR systems that remove repetitive manual work by designing structured wo
 
 ### PeopleOS — Grievance Automation
 
-Built an end-to-end grievance automation system that classifies requests, routes them to the correct team, starts SLA tracking at submission, and maintains a full audit trail. The system removes manual intervention and ensures consistent handling of every case.
+An end-to-end system that classifies grievances, routes them to the correct team, starts SLA at submission, and maintains a complete audit trail.
+
+No manual triage. No follow-ups needed. The system handles it.
 
 👉 https://github.com/anshu-automation/AI-Workflows
 
@@ -41,7 +44,9 @@ Built an end-to-end grievance automation system that classifies requests, routes
 
 ## Approach
 
-I focus on solving process problems, not people problems. Systems should handle routing, tracking, and consistency so HR teams can focus on decision-making instead of repetitive work.
+- Not a people problem — a process problem  
+- System owns routing and SLA  
+- Design once → run consistently  
 
 ---
 
